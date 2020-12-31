@@ -1,0 +1,1 @@
+Simple python script that prints out on new line each WiFi name and password that your computer has saved.
